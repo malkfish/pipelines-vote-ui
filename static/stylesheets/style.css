@@ -9,10 +9,7 @@ html,body{
   background-color: #F7F8F9;
   height: 100vh;
   font-family: 'Open Sans';
-}
-
-h1 {
-  padding-top: 20px;
+  font-size:1.5em;
 }
 
 button{
