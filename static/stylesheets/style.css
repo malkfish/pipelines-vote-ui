@@ -11,6 +11,10 @@ html,body{
   font-family: 'Open Sans';
 }
 
+h1 {
+  padding-top: 20px;
+}
+
 button{
   border-radius: 0;
   width: 100%;
